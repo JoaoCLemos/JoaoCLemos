@@ -5,9 +5,9 @@
 - 📕 Português nativo, inglês fluente e alemão intermediário
 
 <div align="center" style="display: flex; gap: 20px;">
-  <a href="https://github.com/JoaoCLemos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoCLemos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCLemos&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
+  <a href="https://github.com/joaoclemos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoclemos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclemos&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
   </a>
 </div>
 
