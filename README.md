@@ -2,12 +2,15 @@
 - 🔭 Atualmente eu curso o 1º período de CiC na PUC-MG.
 - 🌱 Estou estudando agora JAVA, Php e python.
 - 👯 Estou a procura de um estágio que posso aprender e evoluir juntamente com o projeto.
--  Atualmente eu sei falar português, inglês fluente e alemão intermediário.
+- 📕 Atualmente eu sei falar português, inglês fluente e alemão intermediário.
+- 
+[![JoaoCLemos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCLemos)](https://github.com/JoaoCLemos)
 
-- <div>
+<div>
   <a href="https://github.com/JoaoCLemos">
-  <img height ="180em" scr="https://github-readme-stats.vercel.app/api?username=JoaoCLemos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height ="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCLemos&layout=compact&langs_count=16&theme=radical"/>     
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoCLemos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCLemos&layout=compact&langs_count=16&theme=radical"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
