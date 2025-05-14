@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Lemos
 - 🔭 Atualmente eu curso o 1º período de CiC na PUC-MG.
 - 🌱 Estou estudando agora JAVA, PHP e Python.
-- 👯 Estou a procura de um estágio onde possa aprender e evoluir junto com o projeto da empresa.
+- 🧑‍🤝‍🧑 Estou a procura de um estágio onde possa aprender e evoluir junto com o projeto da empresa.
 - 📕 Português e inglês fluente,  e alemão intermediário.
 
 <div align="center" style="display: flex; gap: 20px;">
